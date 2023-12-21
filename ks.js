@@ -1,8 +1,12 @@
 var mediaData = {
-    
-    path: "https://github.com/bujixiaoyu/bujixiaoyu.github.io/tree/main/images/" ,            
-    afaceURL : ["images/face3.jpg","images/face2.jpg","images/face1.jpg","images/face4.jpg","images/face5.jpg"] ,
-    names : ["宁方昀","周嘉旺","黄建忠","曾令昱","李健宏老师"] ,    
+    authors:{
+        //https://nieyuxin001.github.io/img/images/
+        //https://github260013.github.io/img/images/
+        path: "//https://github260013.github.io/img/images/" ,
+        picFiles : ["宁方昀.jpg","曾令煜.jpg","黄建忠.jpg","周嘉旺.jpg",] ,
+        names : ["宁方昀","曾令煜","黄建忠","周嘉旺"] ,
+        
+      },
       podPath: "https:/jxzy-dmxy.jxstnu.edu.cn/" ,
       videoPath: "https:/jxzy-dmxy.jxstnu.edu.cn/tedVideos/" ,
     podFileStruct: [
